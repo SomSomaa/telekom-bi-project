@@ -1,4 +1,4 @@
-# Telecom Churn Prediction & AI Sentiment Analysis
+# Telekom Churn Prediction & AI Sentiment Analysis
 
 I built this mini-project for an internship interview preparation to model a real-world Business Intelligence workflow. My goal was to connect traditional data warehousing concepts (SQL, Power BI) with modern AI/NLP capabilities.
 
