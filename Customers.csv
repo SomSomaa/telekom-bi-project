@@ -1,0 +1,101 @@
+Customer_ID,Name,Contract_Type,Monthly_Fee,Loyalty_End_Date
+1,Laszlo Molnar,TV + Net Combo,11042,2026-12-31
+2,Gabor Nagy,Mobile S,5468,2026-12-31
+3,Zita Szabo,Mobile S,7040,2026-12-31
+4,Gabor Kovacs,Mobile XL,9940,2026-12-31
+5,Zita Toth,TV + Net Combo,7794,2026-12-31
+6,Zita Molnar,Mobile S,11413,2026-12-31
+7,Laszlo Nagy,Mobile S,12459,2026-12-31
+8,Zita Kiss,Mobile S,6305,2026-12-31
+9,Eszter Nagy,GigaNet Pro,12408,2026-12-31
+10,Peter Horvath,GigaNet Pro,5574,2026-12-31
+11,Anna Kovacs,TV + Net Combo,11990,2026-12-31
+12,Anna Szabo,Mobile S,9950,2026-12-31
+13,Anna Szabo,TV + Net Combo,14201,2026-12-31
+14,Zita Horvath,TV + Net Combo,5148,2026-12-31
+15,Eszter Kiss,Mobile XL,6906,2026-12-31
+16,Peter Varga,GigaNet Pro,11188,2026-12-31
+17,Laszlo Varga,GigaNet Pro,14663,2026-12-31
+18,Gabor Molnar,Mobile S,7638,2026-12-31
+19,Peter Kiss,GigaNet Pro,10830,2026-12-31
+20,Peter Molnar,Mobile XL,10582,2026-12-31
+21,Peter Nagy,Mobile XL,13337,2026-12-31
+22,Anna Varga,TV + Net Combo,8082,2026-12-31
+23,Gabor Molnar,Mobile XL,12339,2026-12-31
+24,Janos Varga,GigaNet Pro,7371,2026-12-31
+25,Zita Molnar,TV + Net Combo,7947,2026-12-31
+26,Peter Toth,GigaNet Pro,8575,2026-12-31
+27,Zita Horvath,GigaNet Pro,10543,2026-12-31
+28,Bence Varga,GigaNet Pro,8589,2026-12-31
+29,Bence Nagy,TV + Net Combo,11234,2026-12-31
+30,Gabor Kovacs,Mobile S,11132,2026-12-31
+31,Bence Kovacs,Mobile XL,12996,2026-12-31
+32,Gabor Horvath,GigaNet Pro,13633,2026-12-31
+33,Peter Kiss,Mobile S,8789,2026-12-31
+34,Gabor Kovacs,Mobile S,13451,2026-12-31
+35,Eszter Molnar,GigaNet Pro,14974,2026-12-31
+36,Janos Kiss,GigaNet Pro,7203,2026-12-31
+37,Bence Kiss,GigaNet Pro,11942,2026-12-31
+38,Janos Nagy,Mobile XL,7888,2026-12-31
+39,Anna Kiss,GigaNet Pro,6416,2026-12-31
+40,Janos Kiss,GigaNet Pro,8589,2026-12-31
+41,Gabor Toth,GigaNet Pro,9091,2026-12-31
+42,Laszlo Varga,Mobile XL,10872,2026-12-31
+43,Bence Toth,Mobile XL,11693,2026-12-31
+44,Eszter Molnar,TV + Net Combo,9482,2026-12-31
+45,Janos Kovacs,GigaNet Pro,13426,2026-12-31
+46,Janos Kovacs,Mobile XL,6787,2026-12-31
+47,Anna Horvath,Mobile S,13680,2026-12-31
+48,Zita Kovacs,TV + Net Combo,8733,2026-12-31
+49,Zita Kovacs,Mobile XL,8570,2026-12-31
+50,Gabor Horvath,GigaNet Pro,9796,2026-12-31
+51,Zita Nagy,Mobile XL,13535,2026-12-31
+52,Bence Kovacs,GigaNet Pro,10685,2026-12-31
+53,Gabor Nagy,Mobile XL,12919,2026-12-31
+54,Eszter Horvath,Mobile XL,14786,2026-12-31
+55,Anna Molnar,TV + Net Combo,7692,2026-12-31
+56,Gabor Nagy,TV + Net Combo,5124,2026-12-31
+57,Bence Kiss,GigaNet Pro,11038,2026-12-31
+58,Laszlo Horvath,Mobile S,13494,2026-12-31
+59,Eszter Horvath,GigaNet Pro,6239,2026-12-31
+60,Gabor Horvath,Mobile S,5743,2026-12-31
+61,Anna Kiss,Mobile S,12896,2026-12-31
+62,Anna Kiss,Mobile XL,12826,2026-12-31
+63,Peter Szabo,TV + Net Combo,11967,2026-12-31
+64,Bence Molnar,TV + Net Combo,13324,2026-12-31
+65,Eszter Molnar,GigaNet Pro,13948,2026-12-31
+66,Gabor Szabo,Mobile S,6357,2026-12-31
+67,Eszter Horvath,Mobile S,11625,2026-12-31
+68,Gabor Nagy,Mobile S,9595,2026-12-31
+69,Eszter Kiss,TV + Net Combo,6482,2026-12-31
+70,Laszlo Varga,Mobile S,8283,2026-12-31
+71,Anna Nagy,Mobile S,12453,2026-12-31
+72,Peter Kovacs,TV + Net Combo,14802,2026-12-31
+73,Peter Kovacs,TV + Net Combo,14328,2026-12-31
+74,Gabor Nagy,Mobile S,13929,2026-12-31
+75,Peter Kovacs,GigaNet Pro,13683,2026-12-31
+76,Laszlo Varga,Mobile S,5110,2026-12-31
+77,Bence Nagy,TV + Net Combo,5872,2026-12-31
+78,Anna Nagy,TV + Net Combo,11223,2026-12-31
+79,Janos Horvath,Mobile S,11600,2026-12-31
+80,Bence Szabo,TV + Net Combo,6950,2026-12-31
+81,Peter Toth,GigaNet Pro,7935,2026-12-31
+82,Anna Nagy,TV + Net Combo,9015,2026-12-31
+83,Anna Kovacs,TV + Net Combo,13140,2026-12-31
+84,Peter Szabo,Mobile S,5434,2026-12-31
+85,Gabor Toth,Mobile S,8168,2026-12-31
+86,Eszter Molnar,Mobile S,10480,2026-12-31
+87,Anna Kovacs,Mobile S,9674,2026-12-31
+88,Laszlo Szabo,GigaNet Pro,13740,2026-12-31
+89,Laszlo Varga,TV + Net Combo,6890,2026-12-31
+90,Gabor Nagy,Mobile XL,9248,2026-12-31
+91,Laszlo Horvath,TV + Net Combo,10907,2026-12-31
+92,Anna Varga,Mobile S,7441,2026-12-31
+93,Bence Molnar,Mobile S,7385,2026-12-31
+94,Janos Nagy,GigaNet Pro,10377,2026-12-31
+95,Gabor Horvath,Mobile XL,5296,2026-12-31
+96,Bence Nagy,TV + Net Combo,11236,2026-12-31
+97,Janos Toth,GigaNet Pro,12103,2026-12-31
+98,Zita Nagy,Mobile XL,5484,2026-12-31
+99,Janos Molnar,GigaNet Pro,5004,2026-12-31
+100,Bence Nagy,Mobile XL,11003,2026-12-31

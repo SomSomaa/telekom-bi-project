@@ -1,0 +1,204 @@
+Customer_ID,Contract_Type,Log_ID,Complaint_Text,Call_Duration_Min,AI_Sentiment,Churn_Risk_Flag
+1,TV + Net Combo,1,It's outrageous that there has been no TV broadcast for days!,5,Negative,0
+1,TV + Net Combo,2,"I have a question about my latest bill, I don't understand the amount.",18,Positive,0
+1,TV + Net Combo,3,"Mobile internet is slow in the city center, what can you do?",12,Negative,1
+2,Mobile S,4,"The wifi keeps disconnecting, terrible service, I want to cancel!",7,Negative,0
+2,Mobile S,5,"I have a question about my latest bill, I don't understand the amount.",11,Positive,0
+3,Mobile S,6,It's outrageous that there has been no TV broadcast for days!,9,Negative,0
+4,Mobile XL,7,"Mobile internet is slow in the city center, what can you do?",21,Negative,1
+4,Mobile XL,8,"Everything is fine, I just want to change my package.",9,Positive,0
+4,Mobile XL,9,"The wifi keeps disconnecting, terrible service, I want to cancel!",17,Negative,1
+5,TV + Net Combo,10,"The internet is super fast, I am very satisfied!",25,Positive,0
+5,TV + Net Combo,11,"Mobile internet is slow in the city center, what can you do?",22,Negative,1
+5,TV + Net Combo,12,"Mobile internet is slow in the city center, what can you do?",23,Negative,1
+6,Mobile S,13,"The wifi keeps disconnecting, terrible service, I want to cancel!",6,Negative,0
+7,Mobile S,14,"The wifi keeps disconnecting, terrible service, I want to cancel!",9,Negative,0
+7,Mobile S,15,"The agent was very kind, thank you for the quick help.",11,Positive,0
+7,Mobile S,16,"The agent was very kind, thank you for the quick help.",14,Positive,0
+8,Mobile S,17,It's outrageous that there has been no TV broadcast for days!,22,Negative,1
+8,Mobile S,18,"Everything is fine, I just want to change my package.",18,Positive,0
+9,GigaNet Pro,19,"The wifi keeps disconnecting, terrible service, I want to cancel!",25,Negative,1
+10,GigaNet Pro,20,"The agent was very kind, thank you for the quick help.",24,Positive,0
+10,GigaNet Pro,21,"I have a question about my latest bill, I don't understand the amount.",15,Positive,0
+10,GigaNet Pro,22,"Everything is fine, I just want to change my package.",18,Positive,0
+11,TV + Net Combo,23,"The internet is super fast, I am very satisfied!",22,Positive,0
+11,TV + Net Combo,24,"Everything is fine, I just want to change my package.",6,Positive,0
+11,TV + Net Combo,25,"The internet is super fast, I am very satisfied!",18,Positive,0
+12,Mobile S,26,It's outrageous that there has been no TV broadcast for days!,17,Negative,1
+13,TV + Net Combo,27,"Everything is fine, I just want to change my package.",12,Positive,0
+13,TV + Net Combo,28,"Everything is fine, I just want to change my package.",25,Positive,0
+14,TV + Net Combo,29,"The agent was very kind, thank you for the quick help.",16,Positive,0
+14,TV + Net Combo,30,"I have a question about my latest bill, I don't understand the amount.",9,Positive,0
+14,TV + Net Combo,31,"Mobile internet is slow in the city center, what can you do?",14,Negative,1
+15,Mobile XL,32,It's outrageous that there has been no TV broadcast for days!,4,Negative,0
+16,GigaNet Pro,33,"The internet is super fast, I am very satisfied!",13,Positive,0
+16,GigaNet Pro,34,"The wifi keeps disconnecting, terrible service, I want to cancel!",5,Negative,0
+17,GigaNet Pro,35,"The internet is super fast, I am very satisfied!",20,Positive,0
+17,GigaNet Pro,36,"Everything is fine, I just want to change my package.",15,Positive,0
+18,Mobile S,37,"Everything is fine, I just want to change my package.",7,Positive,0
+19,GigaNet Pro,38,"I have a question about my latest bill, I don't understand the amount.",5,Positive,0
+19,GigaNet Pro,39,"The wifi keeps disconnecting, terrible service, I want to cancel!",5,Negative,0
+20,Mobile XL,40,It's outrageous that there has been no TV broadcast for days!,8,Negative,0
+20,Mobile XL,41,It's outrageous that there has been no TV broadcast for days!,11,Negative,1
+20,Mobile XL,42,"I have a question about my latest bill, I don't understand the amount.",5,Positive,0
+21,Mobile XL,43,"The internet is super fast, I am very satisfied!",11,Positive,0
+22,TV + Net Combo,44,"Mobile internet is slow in the city center, what can you do?",19,Negative,1
+22,TV + Net Combo,45,"The wifi keeps disconnecting, terrible service, I want to cancel!",2,Negative,0
+22,TV + Net Combo,46,"The agent was very kind, thank you for the quick help.",22,Positive,0
+23,Mobile XL,47,"The wifi keeps disconnecting, terrible service, I want to cancel!",6,Negative,0
+23,Mobile XL,48,"The agent was very kind, thank you for the quick help.",8,Positive,0
+24,GigaNet Pro,49,"Everything is fine, I just want to change my package.",16,Positive,0
+24,GigaNet Pro,50,"The agent was very kind, thank you for the quick help.",2,Positive,0
+25,TV + Net Combo,51,It's outrageous that there has been no TV broadcast for days!,16,Negative,1
+25,TV + Net Combo,52,"The wifi keeps disconnecting, terrible service, I want to cancel!",9,Negative,0
+26,GigaNet Pro,53,It's outrageous that there has been no TV broadcast for days!,6,Negative,0
+27,GigaNet Pro,54,"I have a question about my latest bill, I don't understand the amount.",13,Positive,0
+27,GigaNet Pro,55,"The agent was very kind, thank you for the quick help.",12,Positive,0
+27,GigaNet Pro,56,"Mobile internet is slow in the city center, what can you do?",4,Negative,0
+28,GigaNet Pro,57,It's outrageous that there has been no TV broadcast for days!,6,Negative,0
+28,GigaNet Pro,58,"The agent was very kind, thank you for the quick help.",6,Positive,0
+29,TV + Net Combo,59,"The internet is super fast, I am very satisfied!",24,Positive,0
+29,TV + Net Combo,60,"The wifi keeps disconnecting, terrible service, I want to cancel!",11,Negative,1
+29,TV + Net Combo,61,"The internet is super fast, I am very satisfied!",6,Positive,0
+30,Mobile S,62,"Everything is fine, I just want to change my package.",17,Positive,0
+30,Mobile S,63,"I have a question about my latest bill, I don't understand the amount.",10,Positive,0
+31,Mobile XL,64,"I have a question about my latest bill, I don't understand the amount.",15,Positive,0
+31,Mobile XL,65,It's outrageous that there has been no TV broadcast for days!,15,Negative,1
+31,Mobile XL,66,"The agent was very kind, thank you for the quick help.",4,Positive,0
+32,GigaNet Pro,67,"The internet is super fast, I am very satisfied!",4,Positive,0
+32,GigaNet Pro,68,"The internet is super fast, I am very satisfied!",24,Positive,0
+32,GigaNet Pro,69,"I have a question about my latest bill, I don't understand the amount.",22,Positive,0
+33,Mobile S,70,"Everything is fine, I just want to change my package.",7,Positive,0
+34,Mobile S,71,"The agent was very kind, thank you for the quick help.",12,Positive,0
+34,Mobile S,72,"The internet is super fast, I am very satisfied!",18,Positive,0
+35,GigaNet Pro,73,"The agent was very kind, thank you for the quick help.",23,Positive,0
+35,GigaNet Pro,74,"The agent was very kind, thank you for the quick help.",12,Positive,0
+35,GigaNet Pro,75,"The wifi keeps disconnecting, terrible service, I want to cancel!",20,Negative,1
+36,GigaNet Pro,76,"Everything is fine, I just want to change my package.",6,Positive,0
+36,GigaNet Pro,77,"I have a question about my latest bill, I don't understand the amount.",23,Positive,0
+36,GigaNet Pro,78,"The agent was very kind, thank you for the quick help.",17,Positive,0
+37,GigaNet Pro,79,"The wifi keeps disconnecting, terrible service, I want to cancel!",10,Negative,0
+37,GigaNet Pro,80,"Mobile internet is slow in the city center, what can you do?",19,Negative,1
+38,Mobile XL,81,"Everything is fine, I just want to change my package.",19,Positive,0
+39,GigaNet Pro,82,"Everything is fine, I just want to change my package.",20,Positive,0
+40,GigaNet Pro,83,"The internet is super fast, I am very satisfied!",14,Positive,0
+41,GigaNet Pro,84,It's outrageous that there has been no TV broadcast for days!,6,Negative,0
+41,GigaNet Pro,85,"The agent was very kind, thank you for the quick help.",18,Positive,0
+41,GigaNet Pro,86,"I have a question about my latest bill, I don't understand the amount.",13,Positive,0
+42,Mobile XL,87,"The wifi keeps disconnecting, terrible service, I want to cancel!",24,Negative,1
+43,Mobile XL,88,It's outrageous that there has been no TV broadcast for days!,18,Negative,1
+43,Mobile XL,89,"The wifi keeps disconnecting, terrible service, I want to cancel!",11,Negative,1
+44,TV + Net Combo,90,"The internet is super fast, I am very satisfied!",11,Positive,0
+44,TV + Net Combo,91,"The wifi keeps disconnecting, terrible service, I want to cancel!",5,Negative,0
+44,TV + Net Combo,92,"The wifi keeps disconnecting, terrible service, I want to cancel!",9,Negative,0
+45,GigaNet Pro,93,"Everything is fine, I just want to change my package.",4,Positive,0
+45,GigaNet Pro,94,"Mobile internet is slow in the city center, what can you do?",22,Negative,1
+45,GigaNet Pro,95,"I have a question about my latest bill, I don't understand the amount.",23,Positive,0
+46,Mobile XL,96,"The wifi keeps disconnecting, terrible service, I want to cancel!",15,Negative,1
+46,Mobile XL,97,"The wifi keeps disconnecting, terrible service, I want to cancel!",16,Negative,1
+47,Mobile S,98,"Everything is fine, I just want to change my package.",3,Positive,0
+47,Mobile S,99,"I have a question about my latest bill, I don't understand the amount.",21,Positive,0
+48,TV + Net Combo,100,"The agent was very kind, thank you for the quick help.",9,Positive,0
+48,TV + Net Combo,101,"Everything is fine, I just want to change my package.",2,Positive,0
+49,Mobile XL,102,"I have a question about my latest bill, I don't understand the amount.",11,Positive,0
+50,GigaNet Pro,103,"I have a question about my latest bill, I don't understand the amount.",16,Positive,0
+51,Mobile XL,104,"Everything is fine, I just want to change my package.",15,Positive,0
+51,Mobile XL,105,It's outrageous that there has been no TV broadcast for days!,6,Negative,0
+51,Mobile XL,106,"The wifi keeps disconnecting, terrible service, I want to cancel!",4,Negative,0
+52,GigaNet Pro,107,"Mobile internet is slow in the city center, what can you do?",4,Negative,0
+52,GigaNet Pro,108,"Mobile internet is slow in the city center, what can you do?",17,Negative,1
+52,GigaNet Pro,109,"The wifi keeps disconnecting, terrible service, I want to cancel!",3,Negative,0
+53,Mobile XL,110,"The wifi keeps disconnecting, terrible service, I want to cancel!",19,Negative,1
+53,Mobile XL,111,"Everything is fine, I just want to change my package.",5,Positive,0
+54,Mobile XL,112,"I have a question about my latest bill, I don't understand the amount.",14,Positive,0
+55,TV + Net Combo,113,"Everything is fine, I just want to change my package.",8,Positive,0
+55,TV + Net Combo,114,"I have a question about my latest bill, I don't understand the amount.",13,Positive,0
+56,TV + Net Combo,115,"The internet is super fast, I am very satisfied!",8,Positive,0
+57,GigaNet Pro,116,"The agent was very kind, thank you for the quick help.",11,Positive,0
+58,Mobile S,117,"Mobile internet is slow in the city center, what can you do?",23,Negative,1
+58,Mobile S,118,"The agent was very kind, thank you for the quick help.",11,Positive,0
+59,GigaNet Pro,119,"I have a question about my latest bill, I don't understand the amount.",21,Positive,0
+59,GigaNet Pro,120,"The internet is super fast, I am very satisfied!",8,Positive,0
+60,Mobile S,121,"I have a question about my latest bill, I don't understand the amount.",12,Positive,0
+61,Mobile S,122,"I have a question about my latest bill, I don't understand the amount.",20,Positive,0
+62,Mobile XL,123,"The internet is super fast, I am very satisfied!",22,Positive,0
+62,Mobile XL,124,"The wifi keeps disconnecting, terrible service, I want to cancel!",5,Negative,0
+63,TV + Net Combo,125,"The wifi keeps disconnecting, terrible service, I want to cancel!",25,Negative,1
+63,TV + Net Combo,126,"The internet is super fast, I am very satisfied!",7,Positive,0
+64,TV + Net Combo,127,"Everything is fine, I just want to change my package.",11,Positive,0
+64,TV + Net Combo,128,"Mobile internet is slow in the city center, what can you do?",15,Negative,1
+64,TV + Net Combo,129,"Mobile internet is slow in the city center, what can you do?",11,Negative,1
+65,GigaNet Pro,130,"I have a question about my latest bill, I don't understand the amount.",18,Positive,0
+65,GigaNet Pro,131,"The agent was very kind, thank you for the quick help.",18,Positive,0
+65,GigaNet Pro,132,It's outrageous that there has been no TV broadcast for days!,7,Negative,0
+66,Mobile S,133,It's outrageous that there has been no TV broadcast for days!,12,Negative,1
+66,Mobile S,134,"The wifi keeps disconnecting, terrible service, I want to cancel!",4,Negative,0
+66,Mobile S,135,"Mobile internet is slow in the city center, what can you do?",15,Negative,1
+67,Mobile S,136,"The internet is super fast, I am very satisfied!",12,Positive,0
+68,Mobile S,137,"Mobile internet is slow in the city center, what can you do?",19,Negative,1
+69,TV + Net Combo,138,"The internet is super fast, I am very satisfied!",16,Positive,0
+70,Mobile S,139,"Everything is fine, I just want to change my package.",16,Positive,0
+71,Mobile S,140,"The agent was very kind, thank you for the quick help.",19,Positive,0
+72,TV + Net Combo,141,"The agent was very kind, thank you for the quick help.",17,Positive,0
+72,TV + Net Combo,142,"Mobile internet is slow in the city center, what can you do?",10,Negative,0
+72,TV + Net Combo,143,It's outrageous that there has been no TV broadcast for days!,11,Negative,1
+73,TV + Net Combo,144,"The wifi keeps disconnecting, terrible service, I want to cancel!",11,Negative,1
+74,Mobile S,145,"The wifi keeps disconnecting, terrible service, I want to cancel!",20,Negative,1
+74,Mobile S,146,It's outrageous that there has been no TV broadcast for days!,2,Negative,0
+75,GigaNet Pro,147,"The agent was very kind, thank you for the quick help.",6,Positive,0
+75,GigaNet Pro,148,"The wifi keeps disconnecting, terrible service, I want to cancel!",15,Negative,1
+76,Mobile S,149,"Everything is fine, I just want to change my package.",15,Positive,0
+76,Mobile S,150,"The wifi keeps disconnecting, terrible service, I want to cancel!",13,Negative,1
+77,TV + Net Combo,151,"The internet is super fast, I am very satisfied!",6,Positive,0
+77,TV + Net Combo,152,It's outrageous that there has been no TV broadcast for days!,10,Negative,0
+78,TV + Net Combo,153,"I have a question about my latest bill, I don't understand the amount.",18,Positive,0
+78,TV + Net Combo,154,It's outrageous that there has been no TV broadcast for days!,6,Negative,0
+79,Mobile S,155,"The agent was very kind, thank you for the quick help.",24,Positive,0
+79,Mobile S,156,"The internet is super fast, I am very satisfied!",19,Positive,0
+80,TV + Net Combo,157,"The wifi keeps disconnecting, terrible service, I want to cancel!",7,Negative,0
+80,TV + Net Combo,158,"I have a question about my latest bill, I don't understand the amount.",13,Positive,0
+81,GigaNet Pro,159,"Mobile internet is slow in the city center, what can you do?",25,Negative,1
+81,GigaNet Pro,160,"The internet is super fast, I am very satisfied!",19,Positive,0
+81,GigaNet Pro,161,"The internet is super fast, I am very satisfied!",11,Positive,0
+82,TV + Net Combo,162,"Mobile internet is slow in the city center, what can you do?",15,Negative,1
+82,TV + Net Combo,163,"Everything is fine, I just want to change my package.",20,Positive,0
+83,TV + Net Combo,164,"The internet is super fast, I am very satisfied!",19,Positive,0
+83,TV + Net Combo,165,It's outrageous that there has been no TV broadcast for days!,18,Negative,1
+84,Mobile S,166,"I have a question about my latest bill, I don't understand the amount.",19,Positive,0
+84,Mobile S,167,"I have a question about my latest bill, I don't understand the amount.",17,Positive,0
+84,Mobile S,168,"The internet is super fast, I am very satisfied!",17,Positive,0
+85,Mobile S,169,"I have a question about my latest bill, I don't understand the amount.",5,Positive,0
+86,Mobile S,170,"I have a question about my latest bill, I don't understand the amount.",10,Positive,0
+86,Mobile S,171,"The agent was very kind, thank you for the quick help.",8,Positive,0
+86,Mobile S,172,"I have a question about my latest bill, I don't understand the amount.",8,Positive,0
+87,Mobile S,173,"The internet is super fast, I am very satisfied!",11,Positive,0
+87,Mobile S,174,"The internet is super fast, I am very satisfied!",12,Positive,0
+87,Mobile S,175,"The internet is super fast, I am very satisfied!",11,Positive,0
+88,GigaNet Pro,176,"Mobile internet is slow in the city center, what can you do?",7,Negative,0
+88,GigaNet Pro,177,"Everything is fine, I just want to change my package.",2,Positive,0
+88,GigaNet Pro,178,"Everything is fine, I just want to change my package.",15,Positive,0
+89,TV + Net Combo,179,"I have a question about my latest bill, I don't understand the amount.",17,Positive,0
+89,TV + Net Combo,180,"Mobile internet is slow in the city center, what can you do?",22,Negative,1
+90,Mobile XL,181,"The internet is super fast, I am very satisfied!",19,Positive,0
+91,TV + Net Combo,182,"The internet is super fast, I am very satisfied!",16,Positive,0
+91,TV + Net Combo,183,"The internet is super fast, I am very satisfied!",22,Positive,0
+91,TV + Net Combo,184,"Everything is fine, I just want to change my package.",2,Positive,0
+92,Mobile S,185,It's outrageous that there has been no TV broadcast for days!,8,Negative,0
+93,Mobile S,186,"I have a question about my latest bill, I don't understand the amount.",13,Positive,0
+93,Mobile S,187,"The agent was very kind, thank you for the quick help.",21,Positive,0
+93,Mobile S,188,"The wifi keeps disconnecting, terrible service, I want to cancel!",21,Negative,1
+94,GigaNet Pro,189,"The agent was very kind, thank you for the quick help.",8,Positive,0
+95,Mobile XL,190,It's outrageous that there has been no TV broadcast for days!,9,Negative,0
+95,Mobile XL,191,"Everything is fine, I just want to change my package.",20,Positive,0
+95,Mobile XL,192,"The internet is super fast, I am very satisfied!",18,Positive,0
+96,TV + Net Combo,193,"The internet is super fast, I am very satisfied!",10,Positive,0
+97,GigaNet Pro,194,"The wifi keeps disconnecting, terrible service, I want to cancel!",11,Negative,1
+97,GigaNet Pro,195,It's outrageous that there has been no TV broadcast for days!,15,Negative,1
+97,GigaNet Pro,196,"The internet is super fast, I am very satisfied!",9,Positive,0
+98,Mobile XL,197,"Mobile internet is slow in the city center, what can you do?",23,Negative,1
+99,GigaNet Pro,198,"Everything is fine, I just want to change my package.",11,Positive,0
+99,GigaNet Pro,199,"The wifi keeps disconnecting, terrible service, I want to cancel!",5,Negative,0
+99,GigaNet Pro,200,"Everything is fine, I just want to change my package.",10,Positive,0
+100,Mobile XL,201,"Mobile internet is slow in the city center, what can you do?",14,Negative,1
+100,Mobile XL,202,"Everything is fine, I just want to change my package.",8,Positive,0
+100,Mobile XL,203,"Mobile internet is slow in the city center, what can you do?",21,Negative,1
